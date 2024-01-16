@@ -1,0 +1,40 @@
+https://www.w3schools.com/python/python_mysql_create_db.asp
+1. install the mysql connector
+py -m pip install mysql-connector-python
+2. establish connection 
+import mysql.connector as sql
+connection = sql.connect(host="localhost",user="root",password="root")
+or
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="yourusername",
+  password="yourpassword",
+  database="mydatabase"
+)
+
+print(connection)
+
+3. define cursor
+cursor  = connection.cursor()
+
+4. sql query
+5.exec sql use below method
+execute(sql)
+executemany(sql)
+6.read==
+sql="select * from <tablename>"
+cursor.execute(sql)
+fetchone()
+fetchall()
+7.creating 
+sql="insert stat"
+cursor.execute(sql)
+cursor.commit()
+8.delet 
+sql="delete state"
+cursor.execute(sql)
+cursor.commit()
+9.update
+sql="update stat"
+cursor.execute(sql)
+cursor.commit()

@@ -1,0 +1,51 @@
+Step -1 https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation
+Step-2 VS code add python extension 
+Setp 3 package of mysql with python
+py -m pip install mysql-connector-python
+
+set path="C:\Users\a717861\AppData\Local\Programs\Python\Python311;C:\Users\a717861\AppData\Local\Programs\Python\Python311\Scripts"
+set path="C:\Users\a717861\AppData\Local\Programs\Python\Python311\Scripts"
+tuple-(database name ,table , value)
+list ,string a,tuple are complex type;
+%s--sql injection 
+[]--list
+()--tuple
+return type of fetchall--tuple
+
+f5--execute 
+
+Jupitor,spider ---anaconda install
+ 
+IDLE is basic editor
+
+.ipynb  -interactive python note book-- jupyter extension
+shift-enter ---to run 
+
+Editors used
+jupyter
+spider 
+IDEL 
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=xg9EM8e3LEG7cw5wsBmNWgRony0_qidBtwRhpKBNV5RUNlExNTlQN0NXUURLWVpKN1cxUkhYWTFYQi4u
+
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=xg9EM8e3LEG7cw5wsBmNWgRony0_qidBtwRhpKBNV5RUOTcxVEtPNk02MUpLNlMwWkVTNTJNRktZNi4u---mongo db attendance
+
+https://forms.office.com/Pages/DesignPage.aspx?auth_pvr=OrgId&auth_upn=manisha.mane%40atos.net&lang=en-US&origin=OfficeDotCom&route=Start&sessionId=4c9d9fa5-5eec-4189-a718-9956265db24b#FormId=xg9EM8e3LEG7cw5wsBmNWgRony0_qidBtwRhpKBNV5RUQk9TSDFDRlQ3NEJYT0YyVktXUzUwMlFOQy4u  --feedback
+AndroidAP_8514
+ayansh22
+
+
+
+
+	
+
+
+
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=xg9EM8e3LEG7cw5wsBmNWgRony0_qidBtwRhpKBNV5RUQk9TSDFDRlQ3NEJYT0YyVktXUzUwMlFOQy4u--- mysql feedback
+
+000501607894 ---   
+
+
+
